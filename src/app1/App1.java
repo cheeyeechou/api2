@@ -9,6 +9,8 @@ public class App1 {
         int a = 3, b = 2, c = 1;
         
         if (a > c){
+            a = b = c = 1;
+
             System.out.println(b);
         }
     }
