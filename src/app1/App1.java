@@ -11,7 +11,7 @@ public class App1 {
         if (a > c){
             a = b = c = 1;
 
-            System.out.println(b)
+            System.out.println(b);
         }
     }
 }
